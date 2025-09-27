@@ -144,6 +144,10 @@ ORDER BY month_start;
 
 🔹 Smooths fluctuations by showing rolling averages over 3 months.
 
+ER DIAGRAM
+<img width="508" height="320" alt="image" src="https://github.com/user-attachments/assets/42774a27-5e38-4411-8121-c3f0ea136298" />
+
+
 4. Results & Insights
 1.Descriptive (What happened?)
 * Kigali branch had the highest deposit volumes overall.
